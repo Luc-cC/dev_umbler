@@ -17,7 +17,9 @@ Descrição: O chatbot utiliza o modelo GPT-3.5 para responder perguntas dos usu
 
 #Instruções:
 Inicie o servidor NestJS:
+
 >npm start dev
+
 Inicie o servidor NextJS:
 
 >npm run dev
