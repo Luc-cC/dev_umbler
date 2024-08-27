@@ -14,7 +14,7 @@ dev-umbler-nextjs: Contém as configurações da interface do chatbot e scripts 
 Chatbot (NextJS + NestJS)
 Descrição: O chatbot utiliza o modelo GPT-3.5 para responder perguntas dos usuários.
 >Insira sua chave API em .env
-
+>Execute npm install -g para instalar todas as dependencias
 #Instruções:
 
 Inicie o servidor NestJS:
