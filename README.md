@@ -1,5 +1,3 @@
-# dev_umbler
-
 # Descrição do Projeto
 Este projeto envolve a criação de um chatbot utilizando NextJS e NestJS, integrado ao modelo GPT-3.5. O projeto está dividido em duas partes principais:
 
